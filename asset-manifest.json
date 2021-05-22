@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/analytics/static/js/main.b48057cd.chunk.js",
-    "main.js.map": "/analytics/static/js/main.b48057cd.chunk.js.map",
-    "runtime-main.js": "/analytics/static/js/runtime-main.dade3c3c.js",
-    "runtime-main.js.map": "/analytics/static/js/runtime-main.dade3c3c.js.map",
-    "static/js/2.2af5e8da.chunk.js": "/analytics/static/js/2.2af5e8da.chunk.js",
-    "static/js/2.2af5e8da.chunk.js.map": "/analytics/static/js/2.2af5e8da.chunk.js.map",
-    "index.html": "/analytics/index.html",
-    "precache-manifest.b986029354cffa35f363b92d4eca2091.js": "/analytics/precache-manifest.b986029354cffa35f363b92d4eca2091.js",
-    "service-worker.js": "/analytics/service-worker.js",
-    "static/js/2.2af5e8da.chunk.js.LICENSE.txt": "/analytics/static/js/2.2af5e8da.chunk.js.LICENSE.txt",
-    "static/media/eth.png": "/analytics/static/media/eth.5fc0c9bd.png",
-    "static/media/logo.svg": "/analytics/static/media/logo.f14b1d2f.svg",
-    "static/media/logo_white.svg": "/analytics/static/media/logo_white.0e48903e.svg",
-    "static/media/wordmark_white.svg": "/analytics/static/media/wordmark_white.3a8f3f28.svg"
+    "main.js": "/sengoku_test_analytics/static/js/main.b48057cd.chunk.js",
+    "main.js.map": "/sengoku_test_analytics/static/js/main.b48057cd.chunk.js.map",
+    "runtime-main.js": "/sengoku_test_analytics/static/js/runtime-main.964b39ab.js",
+    "runtime-main.js.map": "/sengoku_test_analytics/static/js/runtime-main.964b39ab.js.map",
+    "static/js/2.e65ae95d.chunk.js": "/sengoku_test_analytics/static/js/2.e65ae95d.chunk.js",
+    "static/js/2.e65ae95d.chunk.js.map": "/sengoku_test_analytics/static/js/2.e65ae95d.chunk.js.map",
+    "index.html": "/sengoku_test_analytics/index.html",
+    "precache-manifest.b7082faf11b2bba09de6144c882bbf61.js": "/sengoku_test_analytics/precache-manifest.b7082faf11b2bba09de6144c882bbf61.js",
+    "service-worker.js": "/sengoku_test_analytics/service-worker.js",
+    "static/js/2.e65ae95d.chunk.js.LICENSE.txt": "/sengoku_test_analytics/static/js/2.e65ae95d.chunk.js.LICENSE.txt",
+    "static/media/eth.png": "/sengoku_test_analytics/static/media/eth.5fc0c9bd.png",
+    "static/media/logo.svg": "/sengoku_test_analytics/static/media/logo.f14b1d2f.svg",
+    "static/media/logo_white.svg": "/sengoku_test_analytics/static/media/logo_white.0e48903e.svg",
+    "static/media/wordmark_white.svg": "/sengoku_test_analytics/static/media/wordmark_white.3a8f3f28.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dade3c3c.js",
-    "static/js/2.2af5e8da.chunk.js",
+    "static/js/runtime-main.964b39ab.js",
+    "static/js/2.e65ae95d.chunk.js",
     "static/js/main.b48057cd.chunk.js"
   ]
 }
